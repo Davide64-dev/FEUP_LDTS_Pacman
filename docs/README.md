@@ -242,7 +242,7 @@ This method was cleaned after we realized that it was not being used
 </p>
 
 ### Link to mutation testing report
-[Mutation tests](https://paginas.fe.up.pt/~up202109860/)
+[Mutation tests](https://paginas.fe.up.pt/~up202109860/LDTS_PACMAN/)
 
 ### SELF-EVALUATION
 
